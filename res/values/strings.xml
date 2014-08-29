@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XMLMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_test">Test text</string>
+    <string name="font_size">Font Size</string>
+    <string name="font_color">Font Color</string>
+    <string name="plain_item">Plain Item</string>
+    <string name="font_size_10">10pt</string>
+    <string name="font_size_12">12pt</string>
+    <string name="font_size_14">14pt</string>
+    <string name="font_size_16">16pt</string>
+    <string name="color_red">Red</string>
+    <string name="color_green">Green</string>
+    <string name="color_blue">Blue</string>
+
+</resources>
